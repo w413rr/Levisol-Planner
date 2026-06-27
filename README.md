@@ -22,10 +22,6 @@ A point-and-click tool that builds Levisol's monthly **production + distribution
 3. Start the tool:
    ```
    streamlit run app.py
-	
-	If Streamlit is not recognized:
-	python -m streamlit run app.py
-
    ```
    Your browser opens automatically. If not, go to the "Local URL" shown in the terminal.
 
